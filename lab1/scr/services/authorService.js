@@ -1,4 +1,4 @@
-const authors = require("../data/mockData");
+const authors = require("../helpers/mockData");
 
 exports.getAllAuthors = () => authors;
 
